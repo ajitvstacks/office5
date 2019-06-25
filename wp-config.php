@@ -1,4 +1,4 @@
-<?php  echo $a;
+<?php  
 /**
  * The base configuration for WordPress
  *
